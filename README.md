@@ -1,2 +1,2 @@
-# tess-two-precompiled
-Precompiled AAR and JAR files for OCR library 'tess-two' for Android
+Precompiled AAR and JAR (*.so) files for OCR library 'tess-two' for Android
+Tess-two repo: https://github.com/rmtheis/tess-two
